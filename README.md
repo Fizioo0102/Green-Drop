@@ -19,8 +19,8 @@
 # 👯 2. 팀원 소개
 |김장호|이대건|이승현|조영헌|천원준|최경인|
 |---|---|---|---|---|---|
-|img|img|img|img|img|<img src="https://github.com/Fizioo0102/commonPJT-3/assets/107913312/c21d0b0a-03ea-4491-91ad-c74b97f8dfe7" width = "100" height = "100">|
-|[@KJH0406](https://github.com/KJH0406)|@|@|@|@|[@Fizioo0102](https://github.com/Fizioo0102)|
+|img|img|img|img|[<img src="https://avatars.githubusercontent.com/u/40604592?v=4" width="110">](https://github.com/wonjunchun)|<img src="https://github.com/Fizioo0102/commonPJT-3/assets/107913312/c21d0b0a-03ea-4491-91ad-c74b97f8dfe7" width = "100" height = "100">|
+|[@KJH0406](https://github.com/KJH0406)|@|@|@|[@wonjunchun](https://github.com/wonjunchun)|[@Fizioo0102](https://github.com/Fizioo0102)|
 |FE / Design |FE|FE / Infra(FE)|IoT / AI|BE / AI / DB|BE / Infra(BE) / DB|
 
 # 💻 3. 기술 스택
