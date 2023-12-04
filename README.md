@@ -101,6 +101,9 @@
  
 ![image](https://github.com/Fizioo0102/commonPJT-3/assets/107913312/5d0bd6e0-6a7b-4660-83bf-29648fcfe4a2)
 
+- ** FIGMA 디자인 **
+[![ㅇㄹㅇㄹ](https://github.com/Fizioo0102/Green-Drop/assets/107913312/a4be0540-6a55-41c3-bf0b-3e14d7dd6a56)](https://www.figma.com/file/m144KxIGI5BfidLsaxe8A7/GreenDrop?type=design&node-id=0%3A1&mode=design&t=TcUxUS6maIl1k4Bk-1)
+
 # 📃 4. ERD
 
 ![image](https://github.com/Fizioo0102/commonPJT-3/assets/107913312/c92f9905-5330-4e8c-836d-5f2d3635a290)
